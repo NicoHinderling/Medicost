@@ -11,7 +11,7 @@ We began by converting our CSV data to JSON, and then uploading them to our [Fir
 
 DEMO
 ----
-I will be adding a video demo here soon as well as making it available online.
+~Coming~
 
 DISCLAIMER
 ----------
