@@ -15,4 +15,9 @@ DEMO
 
 DISCLAIMER
 ----------
-Medicost was created by [Sean Smith](https://github.com/sean-smith), [David Neary](https://github.com/davidneary), [Rahul Nath](https://github.com/rahul-nath), and I. All the data used was from the 2011 American Medical Association.
+Medicost was created by [Sean Smith](https://github.com/sean-smith), [David Neary](https://github.com/davidneary), [Rahul Nath](https://github.com/rahul-nath), and I. All the data used was from the 2011 American Medical Association. 
+
+
+Some useful tools I used:
+https://github.com/firebase/firebase-import
+https://github.com/shancarter/Mr-Data-Converter
